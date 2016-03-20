@@ -68,7 +68,7 @@ mBitmapShader.setLocalMatrix(mMatrix);
 
 **注意：**如果要在xml中设置默认显示图片时不要使用background设置，否则可能会出差错，使用src就不会有问题了。
 # 效果图
-![效果图](https://github.com/idisfkj/CircleImage/raw/master/gif/CircleImageView.gif)
+![效果图](https://github.com/idisfkj/CircleImageView/raw/master/gif/CircleImageView.gif)
 
 ---
 
