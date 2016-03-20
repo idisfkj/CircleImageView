@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CircleImageView</string>
+    <string name="choose_picture">选择图片</string>
+    <string name="choose_from_picture">从相册中选择</string>
+    <string name="choose_from_camera">相机拍照</string>
+</resources>
+
